@@ -1,6 +1,6 @@
 # amap-plugins-types
 
-高度地图 2.0 jsapi 插件类型声明
+高得地图 jsapi2.0 插件类型声明
 
 > 由于官方提供的 ts 声明文件仅包含核心文件的接口，不包含插件的接口，因此本库为插件 DTS。`在使用前请先引入核心类型库，详情可查看`[https://www.npmjs.com/package/@amap/amap-jsapi-types](https://www.npmjs.com/package/@amap/amap-jsapi-types)
 
