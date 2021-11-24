@@ -1,0 +1,22 @@
+{
+  "name": "amap-plugins-types",
+  "version": "1.0.0",
+  "description": "高度地图2.0 插件类型声明",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ludidi/amap-plugins-types.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ludidi/amap-plugins-types/issues"
+  },
+  "homepage": "https://github.com/Ludidi/amap-plugins-types#readme",
+  "dependencies": {
+    "@amap/amap-jsapi-types": "0.0.8"
+  }
+}
