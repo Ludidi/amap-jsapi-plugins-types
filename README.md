@@ -4,7 +4,7 @@
 
 > 由于官方提供的 ts 声明文件仅包含核心文件的接口，不包含插件的接口，因此本库为插件 DTS。`在使用前请先引入核心类型库，详情可查看`[https://www.npmjs.com/package/@amap/amap-jsapi-types](https://www.npmjs.com/package/@amap/amap-jsapi-types)
 
-拷贝 types/amap 文件夹下所有文件放置于自己的项目下
+拷贝 types/amap 文件夹下所引用的插件放置于自己的项目下
 
 ## Plugins 列表
 
