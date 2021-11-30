@@ -1,4 +1,4 @@
-# amap-plugins-types
+# amap-jsapi-plugins-types
 
 高德地图 jsapi2.0 插件类型声明
 
