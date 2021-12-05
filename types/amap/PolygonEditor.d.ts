@@ -1,7 +1,8 @@
-/**
- * https://lbs.amap.com/api/jsapi-v2/documentation#polygoneditor
- */
 declare namespace AMap {
+  /**
+   * @description plugins - 多边形覆盖物
+   * https://lbs.amap.com/api/jsapi-v2/documentation#polygoneditor
+   */
   export class PolygonEditor {
     constructor(
       map: AMap.Map,

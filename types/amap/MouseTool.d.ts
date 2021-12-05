@@ -1,7 +1,8 @@
-/**
- * https://lbs.amap.com/api/jsapi-v2/documentation#mousetool
- */
 declare namespace AMap {
+  /**
+   * @description plugins - 鼠标工具插件
+   * https://lbs.amap.com/api/jsapi-v2/documentation#mousetool
+   */
   export class MouseTool {
     constructor(map: AMap.Map);
 

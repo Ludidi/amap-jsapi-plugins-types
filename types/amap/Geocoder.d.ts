@@ -1,8 +1,8 @@
-/**
- * https://lbs.amap.com/api/jsapi-v2/documentation#geocoder
- */
-
 declare namespace AMap {
+  /**
+   * @description plugins - 地理编码与逆地理编码类
+   * https://lbs.amap.com/api/jsapi-v2/documentation#geocoder
+   */
   export class Geocoder {
     constructor(opts?: GeocoderOptions);
     /**

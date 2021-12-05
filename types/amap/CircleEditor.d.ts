@@ -1,7 +1,8 @@
-/**
- * https://lbs.amap.com/api/jsapi-v2/documentation#circleeditor
- */
 declare namespace AMap {
+  /**
+   * @description plugins - 圆形覆盖物
+   * https://lbs.amap.com/api/jsapi-v2/documentation#circleeditor
+   */
   export class CircleEditor {
     constructor(
       map: AMap.Map,
