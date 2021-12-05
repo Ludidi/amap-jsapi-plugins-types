@@ -13,15 +13,14 @@
 - [x] AMap.PolygonEditor
 - [x] AMap.MouseTool
 - [x] AMap.MarkerCluster
-- [ ] AMap.ElasticMarker
-- [ ] AMap.ToolBar
-- [ ] AMap.Scale
-- [ ] AMap.HawkEye
-- [ ] AMap.MapType
-- [ ] AMap.Geolocation
-- [ ] AMap.AdvancedInfoWindow
-- [ ] AMap.AutoComplete
-- [ ] AMap.PlaceSearch
+- [x] AMap.ElasticMarker
+- [x] AMap.ToolBar
+- [x] AMap.Scale
+- [x] AMap.HawkEye
+- [x] AMap.MapType
+- [x] AMap.Geolocation
+- [x] AMap.AutoComplete
+- [x] AMap.PlaceSearch
 - [ ] AMap.DistrictSearch
 - [ ] AMap.LineSearch
 - [ ] AMap.StationSearch
@@ -40,3 +39,4 @@
 - [ ] AMap.Weather
 - [ ] AMap.RoadInfoSearch
 - [ ] AMap.HeatMap
+- [ ] AMap.AdvancedInfoWindow
