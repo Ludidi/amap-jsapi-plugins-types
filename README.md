@@ -6,6 +6,11 @@
 
 拷贝 types/amap 文件夹下所引用的插件放置于自己的项目下
 
+# Tips
+
+1. 由于高德地图 2.0 文档上大部分类型给的不是很明确，会从 1.x 版本中查找对应的类型，实际可能会有出入，欢迎提 PR
+2. 官方提供的核心声明文件与实际开发也会有出入，建议直接 copy 官方核心文件本地修改
+
 ## Plugins 列表
 
 - [x] AMap.Geocoder
@@ -21,22 +26,23 @@
 - [x] AMap.Geolocation
 - [x] AMap.AutoComplete
 - [x] AMap.PlaceSearch
-- [ ] AMap.DistrictSearch
-- [ ] AMap.LineSearch
-- [ ] AMap.StationSearch
-- [ ] AMap.Driving
-- [ ] AMap.TruckDriving
-- [ ] AMap.Transfer
-- [ ] AMap.Walking
-- [ ] AMap.Riding
-- [ ] AMap.DragRoute
-- [ ] AMap.ArrivalRange
-- [ ] AMap.CitySearch
-- [ ] AMap.IndoorMap
-- [ ] AMap.PolylineEditor
-- [ ] AMap.RangingTool
-- [ ] AMap.CloudDataSearch
-- [ ] AMap.Weather
-- [ ] AMap.RoadInfoSearch
-- [ ] AMap.HeatMap
-- [ ] AMap.AdvancedInfoWindow
+- [x] AMap.DistrictSearch
+- [x] AMap.LineSearch
+- [x] AMap.StationSearch
+- [x] AMap.Driving
+- [x] AMap.TruckDriving
+- [x] AMap.Transfer
+- [x] AMap.Walking
+- [x] AMap.Riding
+- [x] AMap.DragRoute
+- [x] AMap.ArrivalRange
+- [x] AMap.CitySearch
+- [x] AMap.PolylineEditor
+- [x] AMap.RangingTool
+- [x] AMap.CloudDataSearch
+- [x] AMap.Weather
+- [x] AMap.HeatMap
+- [ ] ~~AMap.AdvancedInfoWindow~~ `暂无文档`
+- [ ] ~~AMap.RoadInfoSearch~~ `已停止数据更新，反馈信息仅供参考`
+- [ ] ~~AMap.CloudDataLayer~~ `服务停止维护，请勿使用`
+- [ ] ~~AMap.PlaceSearchLayer~~ `服务已下线，请勿使用`
